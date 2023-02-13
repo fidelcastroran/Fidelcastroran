@@ -4,7 +4,6 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Fidel Castro</h1>
-<h3 align="center">A passionate React Developer || Frontend Web Developer</h3>
 
 - 🌱 I’m currently working on **React, Redux-Toolkit**
 
@@ -20,7 +19,6 @@
        API Testing: Postman
        
        Version Control: Git, GitHub
-=====================================================================================================================================
 
 Full Stack Web Developer.
 -------------------------
