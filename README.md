@@ -7,7 +7,7 @@ Full Stack Web Developer.
 Highly Motivated, Self-starting developer seeking to launch a career building Web applications and services. Familiar with development and deployment process for many web based technologies.
 
 *   🌍  I'm based in Russia
-*   ✉️  You can contact me at [careers.aathirajan@gmail.com](mailto:fidelcastroprp@gmail.com)
+*   ✉️  You can contact me at [fidelcastroprp@gmail.com](mailto:fidelcastroprp@gmail.com)
 
 
 <p align="left">
