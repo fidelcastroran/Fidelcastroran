@@ -1,4 +1,25 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Fidel Castro
+<p align="center"> 
+<!-- <img width="60%" src="https://miro.medium.com/max/750/0*pfSePj1QRklvARDJ"> -->
+ <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+</p>
+
+<h1 align="center">Hi 👋, I'm Fidel Castro</h1>
+<h3 align="center">A passionate React Developer || Frontend Web Developer</h3>
+
+- 🌱 I’m currently working on **React, Redux-Toolkit**
+
+
+- 💬 Ask me about
+
+       Client: React, Redux-Toolkit, Bootstrap, HTML, CSS, JS
+
+       Server: Node, Express
+       
+       Database: MongoDB
+
+       API Testing: Postman
+       
+       Version Control: Git, GitHub
 =====================================================================================================================================
 
 Full Stack Web Developer.
