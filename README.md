@@ -10,7 +10,7 @@
 
 - 💬 Ask me about
 
-       Client: React, Redux-Toolkit, Bootstrap, HTML, CSS, JS
+       Client: HTML, Bootstrap, JS, React, Redux-Toolkit, CSS
 
        Server: Node, Express
        
